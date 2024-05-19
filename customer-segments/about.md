@@ -71,10 +71,4 @@ Dengan memahami sensitivitas harga dari setiap segmen pelanggan, perusahaan dapa
 ## Kesimpulan
 Segmentasi pelanggan dengan machine learning adalah alat yang kuat untuk mengidentifikasi dan memahami berbagai kelompok pelanggan berdasarkan data mereka. Ini memungkinkan perusahaan untuk mengembangkan strategi yang lebih efektif dan personal dalam berbagai aspek bisnis mereka, mulai dari pemasaran hingga pengembangan produk dan layanan, yang pada akhirnya dapat meningkatkan kepuasan dan loyalitas pelanggan serta profitabilitas perusahaan.
 
-Jika kamu memiliki pertanyaan lebih lanjut atau memerlukan bantuan tambahan, jangan ragu untuk bertanya!
-
-
-## Kesimpulan
 Project segmentasi pelanggan ini adalah contoh dari project clustering. Dengan menggunakan metode K-Means clustering, kamu dapat mengelompokkan pelanggan ke dalam beberapa segmen berdasarkan kesamaan fitur-fitur mereka, yang memungkinkan analisis dan strategi pemasaran yang lebih efektif.
-
-Jika kamu memiliki pertanyaan lebih lanjut atau memerlukan bantuan tambahan, jangan ragu untuk bertanya!
